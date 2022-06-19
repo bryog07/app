@@ -1,13 +1,12 @@
 import './App.css';
-import FreeCodeCamplogo from './imagenes/freecodecamp-logo.png';
-import ListaDeTareas from './componentes/ListaDeTareas';
+import TasksList from './components/TaskList';
 
 function App() {
   return (
-    <div className="App-tarea">
-      <div className='lista'>
-        <h1>Mis Tareas</h1>
-        <ListaDeTareas/>
+    <div className="App-task">
+      <div className='list'>
+        <h1>My Tasks</h1>
+        <TasksList/>
       </div>
     </div>
   );

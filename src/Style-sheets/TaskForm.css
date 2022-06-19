@@ -1,11 +1,11 @@
-.tarea-formulario{
+.task-form{
   display: flex;
   flex-wrap: wrap;
   align-self: center;
   justify-content: center;
 }
 
-.tarea-input{
+.task-input{
   width: 350px;
   font-size: 18px;
   background-color: white;
@@ -15,7 +15,7 @@
   outline: none;
 }
 
-.tarea-boton{
+.task-button{
   padding: 16px;
   font-size: 18px;
   font-family: Roboto, sans-serif;

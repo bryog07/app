@@ -19,7 +19,7 @@ h1{
   margin: 20px 0;
 }
 
-.App-tarea {
+.App-task {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -34,7 +34,7 @@ h1{
   justify-content: center;
 }
 
-.lista{
+.list{
   width: 600px;
   min-height: 500px;
   background-color: #d0d0d5;
